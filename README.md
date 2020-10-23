@@ -3,6 +3,6 @@
  
  
 # Running
-- $ npm i puppeteer \n
-- $ npm install readline-sync\n
+- $ npm i puppeteer 
+- $ npm install readline-sync
 - $ node index.js
